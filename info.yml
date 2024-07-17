@@ -1,0 +1,8 @@
+Enter a number: 1
+host (hostname for the instance): jq_codespace
+port [5432]: 
+user (dev username): jsaldana
+pass (dev password): 
+dbname (default database that dbt will build objects in): dbt_database
+schema (default schema that dbt will build objects in): dbo
+threads (1 or more) [1]: 1
